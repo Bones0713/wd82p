@@ -4,6 +4,7 @@ body {
 h1,
 h2 {
   color: deeppink;
+  font-family: "helvetica";
 }
 p {
   color: gray;
