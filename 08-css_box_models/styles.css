@@ -38,14 +38,3 @@ div {
   width: 100px;
   margin: 0 auto;
 }
-span {
-  color: #fff;
-  background-color: goldenrod;
-  font-weight: bold;
-  padding: 20px;
-  border: 2px solid #5d6063;
-  border-radius: 10px;
-  text-align: center;
-  width: 100px;
-  margin: 0 auto;
-}
