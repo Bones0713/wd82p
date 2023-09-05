@@ -6,7 +6,7 @@
 
 // Your code here
 
-let temperature = prompt("What is the temperature outside?");
+const temperature = prompt("What is the temperature outside?");
 
 if (temperature > 30 + "°C") {
   console.log("It's hot outside");

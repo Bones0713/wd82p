@@ -6,10 +6,10 @@
 
 // Log the 'averageScore' to the console.
 
-testscore1 = 75;
-testscore2 = 80;
-testscore3 = 85;
+const testscore1 = 92;
+const testscore2 = 85.6;
+const testscore3 = 72.5;
 
-let averageScore = ((testscore1 + testscore2 + testscore3) / 3) * 100;
+const averageScore = Math.round((testscore1 + testscore2 + testscore3) / 3);
 
 console.log(averageScore);
